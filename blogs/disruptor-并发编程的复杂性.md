@@ -30,5 +30,5 @@ CAS不需要上下文切换，但是CAS需要处理器做如下操作：
 ## 管道与图
 
 # 更多参考资料
-[高效内存无锁队列 Disruptor](http://www.okyes.me/2016/11/01/disruptor.html)
-[论文中文翻译](http://blog.sina.com.cn/s/blog_68ffc7a4010150yl.html)
+- [高效内存无锁队列 Disruptor](http://www.okyes.me/2016/11/01/disruptor.html)
+- [论文中文翻译](http://blog.sina.com.cn/s/blog_68ffc7a4010150yl.html)
