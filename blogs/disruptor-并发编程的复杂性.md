@@ -19,7 +19,7 @@ CAS不需要上下文切换，但是CAS需要处理器做如下操作：
 
 使用CAS和memory barrier实现无锁算法非常复杂，并且很难验证其正确性。
 
-作者建议的理想算法是：对单个资源，单线程写入，多线程读取。这种情况下，多核环境中的读取需要memory barrier。
+disruptor作者建议的理想算法是：对单个资源，单线程写入，多线程读取。这种情况下，多核环境中的读取需要memory barrier。
 
 ## Memory Barriers
 
