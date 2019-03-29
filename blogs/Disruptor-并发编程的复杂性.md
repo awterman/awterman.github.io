@@ -1,5 +1,5 @@
 # Disruptor-并发编程的复杂性
-yuxuan 2019-03-25
+yuxuan 2019-03-25 ～ 2019-03-29
 
 这篇文章中涉及的内容主要来自
 > [Disruptor: High performance alternative to bounded queues for exchanging data between concurrent threads](http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf)
